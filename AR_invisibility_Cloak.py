@@ -6,8 +6,6 @@ print("""
 
 Harry :  Hey !! Would you like to try my invisibility cloak ??
 
-         Its awesome !!
-
         
          Prepare to get invisible .....................
     """)
